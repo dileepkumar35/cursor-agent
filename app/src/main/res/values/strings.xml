@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Spowlo Music Downloader</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_downloads">Downloads</string>
+    <string name="nav_history">History</string>
+    
+    <!-- Home Screen -->
+    <string name="home_title">Music Downloader</string>
+    <string name="home_subtitle">Download music from Spotify, JioSaavn, or YouTube</string>
+    <string name="url_hint">Paste Spotify, JioSaavn, or YouTube URL</string>
+    <string name="search_hint">Or search for a song</string>
+    <string name="btn_fetch_metadata">Fetch Song Info</string>
+    <string name="btn_download">Download</string>
+    <string name="select_quality">Select Quality</string>
+    
+    <!-- Quality Options -->
+    <string name="quality_m4a_320">M4A 320 kbps (Best Quality)</string>
+    <string name="quality_opus_160">Opus 160 kbps (High Efficiency)</string>
+    <string name="quality_best">Best Available (No Conversion)</string>
+    
+    <!-- Platform Labels -->
+    <string name="platform_spotify">Spotify</string>
+    <string name="platform_jiosaavn">JioSaavn</string>
+    <string name="platform_youtube">YouTube</string>
+    
+    <!-- Download Progress -->
+    <string name="download_progress">Download Progress</string>
+    <string name="downloading">Downloading…</string>
+    <string name="processing">Processing…</string>
+    <string name="completed">Completed</string>
+    <string name="failed">Failed</string>
+    
+    <!-- History -->
+    <string name="history_title">Download History</string>
+    <string name="history_empty">No downloads yet</string>
+    <string name="clear_history">Clear History</string>
+    
+    <!-- Metadata -->
+    <string name="title">Title</string>
+    <string name="artist">Artist</string>
+    <string name="album">Album</string>
+    <string name="duration">Duration</string>
+    
+    <!-- Errors -->
+    <string name="error_invalid_url">Invalid URL</string>
+    <string name="error_network">Network error</string>
+    <string name="error_fetch_metadata">Failed to fetch metadata</string>
+    <string name="error_download_failed">Download failed</string>
+    
+    <!-- Permissions -->
+    <string name="permission_required">Storage permission is required to save downloads</string>
+    <string name="grant_permission">Grant Permission</string>
+</resources>
